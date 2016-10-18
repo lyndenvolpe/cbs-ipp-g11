@@ -2,4 +2,4 @@
 
 Lynden and Patrick's Grab Bag o' GIFS
 
-by [Patrick Hugueni] and [Lynden Volpe](https://cbs-ipp-g11.herokuapp.com)
+by [Patrick Huguenin and Lynden Volpe](https://cbs-ipp-g11.herokuapp.com)
